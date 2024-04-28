@@ -1,5 +1,3 @@
-PLEASE DELETE BBSHOTGUN ZIP FILE, THE WORKING FILE IS FLIE-BBSHOTGUN (New to github and unsure how to delete the old file lol)
-
 Add-On Bean Bag Shotgun for FiveM
 
 Drag and Drop, Easy Installation!
