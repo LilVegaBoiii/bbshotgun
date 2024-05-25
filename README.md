@@ -7,8 +7,6 @@ It works like a normal shotgun, it just has the texture of a 'less lethal' shotg
 
 ![WEAPON_BBSHOTGUN](https://github.com/LilVegaBoiii/bbshotgun/assets/127635959/e2dfb144-0058-4ee4-a325-d9f57d016b8f)
 
-![BBSHOTGUN](https://github.com/LilVegaBoiii/bbshotgun/assets/127635959/7d02acd7-9cd2-4a1f-8e7b-9118b36adcb1)
-
 
 This model was created by 8sianDude and used under the “CC Attribution” License.
 
